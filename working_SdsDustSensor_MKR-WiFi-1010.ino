@@ -1,3 +1,5 @@
+// testing this code is possible in the Arduino IDE
+// all include-files have to be added to the libraries folder within the Arduino 
 #include "SdsDustSensor.h"
 #include <phyphoxBle.h> 
 
